@@ -1,0 +1,7 @@
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\bin\Debug\lab2_logicanalyse.exe.config
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\bin\Debug\lab2_logicanalyse.exe
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\bin\Debug\lab2_logicanalyse.pdb
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\obj\Debug\lab2_logicanalyse.csprojAssemblyReference.cache
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\obj\Debug\lab2_logicanalyse.csproj.CoreCompileInputs.cache
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\obj\Debug\lab2_logicanalyse.exe
+C:\Users\Liubomyr Demchuk\source\repos\lab2_logicanalyse\lab2_logicanalyse\obj\Debug\lab2_logicanalyse.pdb
